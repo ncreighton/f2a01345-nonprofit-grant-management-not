@@ -1,2 +1,30 @@
-# f2a01345-nonprofit-grant-management-not
-Comprehensive Notion workspace for nonprofit development teams managing grant applications and funder relationships. Includes a grant pipeline with deadline tracking, requirement checklists, and award probability scores. Features a funder CRM with relationship history, communication log, and reporting obligation calendar. Covers LOI and proposal ve
+# Nonprofit Grant Management Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY3cv12DbUE8FG9rKcZa3W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY3cv12DbUE8FG9rKcZa3W)
+- [Buy on Whop](https://whop.com/nonprofit-grant-management-notion-template)
+
